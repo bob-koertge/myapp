@@ -13,6 +13,9 @@
 !/log/.keep
 !/tmp/.keep
 
+# Ignore RubyMine Config
+.idea/
+
 # Ignore Byebug command history file.
 .byebug_history
 .env
